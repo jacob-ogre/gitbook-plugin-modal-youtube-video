@@ -1,4 +1,6 @@
 .modal {
+  width: 900px;
+  height: 600px;
   position: fixed;
   top: 0px;
   left: 0;
@@ -22,8 +24,8 @@
 .modal .modal_header {
   display: block;
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 10px;
+  left: 10px;
 }
 .modal .close {
   display: block;
