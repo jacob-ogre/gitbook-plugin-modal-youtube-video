@@ -15,9 +15,9 @@
   width: 900px;
   height: 600px;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  margin: -20px 0 0 -30px;
+  top: 20%;
+  left: 20%;
+  margin: -200px 0 0 -300px;
   background-color: #fff;
   box-shadow: 0 2px 1px rgba(34, 25, 25, 0.1);
 }
