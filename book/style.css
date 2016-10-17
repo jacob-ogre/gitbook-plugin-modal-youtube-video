@@ -40,8 +40,8 @@
   cursor: pointer;
 }
 .modal .video {
-  width: 560px;
-  height: 315px;
+  width: 700px;
+  height: 450px;
   position: absolute;
   right: 20px;
   bottom: 20px;
