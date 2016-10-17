@@ -7,18 +7,18 @@
   right: 0;
   bottom: 0;
   background-color: #fff;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.7);
   z-index: 99;
   display: none;
 }
 
 .modal .modal_content {
-  /* width: 900px; */
-  /* height: 600px; */
+  width: 75%;
+  height: 70%;
   position: absolute;
-  /* top: 50%; */
-  /* left: 90%; */
-  /* margin: -20px 0 0 -30px; */
+  top: 15%;
+  left: 12.5%;
+  margin: 0px 0 0 0px;
   background-color: #fff;
   box-shadow: 0 2px 1px rgba(34, 25, 25, 0.1);
 }
