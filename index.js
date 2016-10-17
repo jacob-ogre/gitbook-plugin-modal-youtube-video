@@ -68,7 +68,7 @@ module.exports = {
         modalHTML =  "<div class=\"modal modal_video\">"            +
         "<div class=\"modal_content\"><div class=\"modal_header\">" + parts.header + "</div><ins class=\"close\"></ins>"  +
         "<div class=\"video\">"                                     +
-        "<iframe width=\"560\" height=\"315\" src=\"" + parts.href + "\" frameborder=\"0\" allowfullscreen=\"\"></iframe>" +
+        "<iframe width=\"100%\" height=\"100%\" src=\"" + parts.href + "\" frameborder=\"0\" allowfullscreen=\"\"></iframe>" +
         "</div>" +
         "</div>" +
         "</div>";
