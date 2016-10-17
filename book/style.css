@@ -1,6 +1,6 @@
 .modal {
-  width: 2000px;
-  height: 1000px;
+  width: 100%;
+  height: 100%;
   position: fixed;
   top: 0px;
   left: 0;
@@ -11,16 +11,18 @@
   z-index: 99;
   display: none;
 }
+
 .modal .modal_content {
-  width: 900px;
-  height: 600px;
+  /* width: 900px; */
+  /* height: 600px; */
   position: absolute;
-  top: 50%;
-  left: 90%;
-  margin: -200px 0 0 -300px;
+  /* top: 50%; */
+  /* left: 90%; */
+  /* margin: -20px 0 0 -30px; */
   background-color: #fff;
   box-shadow: 0 2px 1px rgba(34, 25, 25, 0.1);
 }
+
 .modal .modal_header {
   display: block;
   position: absolute;
